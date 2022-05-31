@@ -1,7 +1,7 @@
 # WindframeClone 
 This is website is clone website of Windframe website 
 
-#### Css framework : Tailwincss 
+#### Css framework : Tailwindcss 
 
 #### Orginal Website : https://www.devwares.com/windframe/
 #### My Website : https://sm8uti.github.io/WindframeClone/
